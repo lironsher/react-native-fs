@@ -2,6 +2,9 @@
 
 Native filesystem access for react-native
 
+## LironSher Version 
+- Add support for uploading one file without FormData.
+
 ## Changes for v2.9
 - (iOS only) Resumable downloads and better background downloads handling [#335](https://github.com/itinance/react-native-fs/pull/335) by [ptelad](https://github.com/ptelad)
 - (ANdroid only) getAllExternalFilesDirs() added by [ngrj](https://github.com/ngrj)
